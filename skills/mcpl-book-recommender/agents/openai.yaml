@@ -1,0 +1,4 @@
+interface:
+  display_name: "MCPL Book Recommender"
+  short_description: "Discover great books and check library borrowing options"
+  default_prompt: "Recommend books for my interests using independent reviews, curated booklists and awards, then check MCPL borrowing options."
